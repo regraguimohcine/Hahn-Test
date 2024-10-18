@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mohcine\\Desktop\\Hahn Test\\TicketManagementSystem_BackEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B77EE4EA-D17B-4DA9-8395-9F8C70C70156}|TicketManagementSystem\\TicketManagementSystem.csproj|c:\\users\\mohcine\\desktop\\hahn test\\ticketmanagementsystem_backend\\ticketmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B77EE4EA-D17B-4DA9-8395-9F8C70C70156}|TicketManagementSystem\\TicketManagementSystem.csproj|solutionrelative:ticketmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B77EE4EA-D17B-4DA9-8395-9F8C70C70156}|TicketManagementSystem\\TicketManagementSystem.csproj|c:\\users\\mohcine\\desktop\\hahn test\\ticketmanagementsystem_backend\\ticketmanagementsystem\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B77EE4EA-D17B-4DA9-8395-9F8C70C70156}|TicketManagementSystem\\TicketManagementSystem.csproj|solutionrelative:ticketmanagementsystem\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B77EE4EA-D17B-4DA9-8395-9F8C70C70156}|TicketManagementSystem\\TicketManagementSystem.csproj|c:\\users\\mohcine\\desktop\\hahn test\\ticketmanagementsystem_backend\\ticketmanagementsystem\\ticketmanagementsystem.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B77EE4EA-D17B-4DA9-8395-9F8C70C70156}|TicketManagementSystem\\TicketManagementSystem.csproj|solutionrelative:ticketmanagementsystem\\ticketmanagementsystem.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B77EE4EA-D17B-4DA9-8395-9F8C70C70156}|TicketManagementSystem\\TicketManagementSystem.csproj|c:\\users\\mohcine\\desktop\\hahn test\\ticketmanagementsystem_backend\\ticketmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B77EE4EA-D17B-4DA9-8395-9F8C70C70156}|TicketManagementSystem\\TicketManagementSystem.csproj|solutionrelative:ticketmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B77EE4EA-D17B-4DA9-8395-9F8C70C70156}|TicketManagementSystem\\TicketManagementSystem.csproj|c:\\users\\mohcine\\desktop\\hahn test\\ticketmanagementsystem_backend\\ticketmanagementsystem\\services\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B77EE4EA-D17B-4DA9-8395-9F8C70C70156}|TicketManagementSystem\\TicketManagementSystem.csproj|solutionrelative:ticketmanagementsystem\\services\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B77EE4EA-D17B-4DA9-8395-9F8C70C70156}|TicketManagementSystem\\TicketManagementSystem.csproj|c:\\users\\mohcine\\desktop\\hahn test\\ticketmanagementsystem_backend\\ticketmanagementsystem\\services\\interfaces\\iticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B77EE4EA-D17B-4DA9-8395-9F8C70C70156}|TicketManagementSystem\\TicketManagementSystem.csproj|solutionrelative:ticketmanagementsystem\\services\\interfaces\\iticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B77EE4EA-D17B-4DA9-8395-9F8C70C70156}|TicketManagementSystem\\TicketManagementSystem.csproj|c:\\users\\mohcine\\desktop\\hahn test\\ticketmanagementsystem_backend\\ticketmanagementsystem\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B77EE4EA-D17B-4DA9-8395-9F8C70C70156}|TicketManagementSystem\\TicketManagementSystem.csproj|solutionrelative:ticketmanagementsystem\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B77EE4EA-D17B-4DA9-8395-9F8C70C70156}|TicketManagementSystem\\TicketManagementSystem.csproj|c:\\users\\mohcine\\desktop\\hahn test\\ticketmanagementsystem_backend\\ticketmanagementsystem\\migrations\\20241017004856_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B77EE4EA-D17B-4DA9-8395-9F8C70C70156}|TicketManagementSystem\\TicketManagementSystem.csproj|solutionrelative:ticketmanagementsystem\\migrations\\20241017004856_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B77EE4EA-D17B-4DA9-8395-9F8C70C70156}|TicketManagementSystem\\TicketManagementSystem.csproj|c:\\users\\mohcine\\desktop\\hahn test\\ticketmanagementsystem_backend\\ticketmanagementsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B77EE4EA-D17B-4DA9-8395-9F8C70C70156}|TicketManagementSystem\\TicketManagementSystem.csproj|solutionrelative:ticketmanagementsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B77EE4EA-D17B-4DA9-8395-9F8C70C70156}|TicketManagementSystem\\TicketManagementSystem.csproj|c:\\users\\mohcine\\desktop\\hahn test\\ticketmanagementsystem_backend\\ticketmanagementsystem\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B77EE4EA-D17B-4DA9-8395-9F8C70C70156}|TicketManagementSystem\\TicketManagementSystem.csproj|solutionrelative:ticketmanagementsystem\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BD02D6-AA9F-4082-BBF5-05A39B4DE0AB}|TicketManagementSystem.Tests\\TicketManagementSystem.Tests.csproj|c:\\users\\mohcine\\desktop\\hahn test\\ticketmanagementsystem_backend\\ticketmanagementsystem.tests\\ticketscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95BD02D6-AA9F-4082-BBF5-05A39B4DE0AB}|TicketManagementSystem.Tests\\TicketManagementSystem.Tests.csproj|solutionrelative:ticketmanagementsystem.tests\\ticketscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B77EE4EA-D17B-4DA9-8395-9F8C70C70156}|TicketManagementSystem\\TicketManagementSystem.csproj|c:\\users\\mohcine\\desktop\\hahn test\\ticketmanagementsystem_backend\\ticketmanagementsystem\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B77EE4EA-D17B-4DA9-8395-9F8C70C70156}|TicketManagementSystem\\TicketManagementSystem.csproj|solutionrelative:ticketmanagementsystem\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B77EE4EA-D17B-4DA9-8395-9F8C70C70156}|TicketManagementSystem\\TicketManagementSystem.csproj|c:\\users\\mohcine\\desktop\\hahn test\\ticketmanagementsystem_backend\\ticketmanagementsystem\\ticketmanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B77EE4EA-D17B-4DA9-8395-9F8C70C70156}|TicketManagementSystem\\TicketManagementSystem.csproj|solutionrelative:ticketmanagementsystem\\ticketmanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Mohcine\\Desktop\\Hahn Test\\TicketManagementSystem_BackEnd\\TicketManagementSystem\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "TicketManagementSystem\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Mohcine\\Desktop\\Hahn Test\\TicketManagementSystem_BackEnd\\TicketManagementSystem\\appsettings.Development.json",
+              "RelativeToolTip": "TicketManagementSystem\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-18T00:17:16.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Mohcine\\Desktop\\Hahn Test\\TicketManagementSystem_BackEnd\\TicketManagementSystem\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "TicketManagementSystem\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Mohcine\\Desktop\\Hahn Test\\TicketManagementSystem_BackEnd\\TicketManagementSystem\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "TicketManagementSystem\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T00:49:09.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITicketService.cs",
+              "DocumentMoniker": "C:\\Users\\Mohcine\\Desktop\\Hahn Test\\TicketManagementSystem_BackEnd\\TicketManagementSystem\\Services\\Interfaces\\ITicketService.cs",
+              "RelativeDocumentMoniker": "TicketManagementSystem\\Services\\Interfaces\\ITicketService.cs",
+              "ToolTip": "C:\\Users\\Mohcine\\Desktop\\Hahn Test\\TicketManagementSystem_BackEnd\\TicketManagementSystem\\Services\\Interfaces\\ITicketService.cs",
+              "RelativeToolTip": "TicketManagementSystem\\Services\\Interfaces\\ITicketService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T00:05:20.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TicketService.cs",
+              "DocumentMoniker": "C:\\Users\\Mohcine\\Desktop\\Hahn Test\\TicketManagementSystem_BackEnd\\TicketManagementSystem\\Services\\TicketService.cs",
+              "RelativeDocumentMoniker": "TicketManagementSystem\\Services\\TicketService.cs",
+              "ToolTip": "C:\\Users\\Mohcine\\Desktop\\Hahn Test\\TicketManagementSystem_BackEnd\\TicketManagementSystem\\Services\\TicketService.cs",
+              "RelativeToolTip": "TicketManagementSystem\\Services\\TicketService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T22:28:51.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mohcine\\Desktop\\Hahn Test\\TicketManagementSystem_BackEnd\\TicketManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "TicketManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Mohcine\\Desktop\\Hahn Test\\TicketManagementSystem_BackEnd\\TicketManagementSystem\\Program.cs",
+              "RelativeToolTip": "TicketManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T22:34:29.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TicketManagementSystem.http",
+              "DocumentMoniker": "C:\\Users\\Mohcine\\Desktop\\Hahn Test\\TicketManagementSystem_BackEnd\\TicketManagementSystem\\TicketManagementSystem.http",
+              "RelativeDocumentMoniker": "TicketManagementSystem\\TicketManagementSystem.http",
+              "ToolTip": "C:\\Users\\Mohcine\\Desktop\\Hahn Test\\TicketManagementSystem_BackEnd\\TicketManagementSystem\\TicketManagementSystem.http",
+              "RelativeToolTip": "TicketManagementSystem\\TicketManagementSystem.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-14T22:27:58.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mohcine\\Desktop\\Hahn Test\\TicketManagementSystem_BackEnd\\TicketManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "TicketManagementSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\Mohcine\\Desktop\\Hahn Test\\TicketManagementSystem_BackEnd\\TicketManagementSystem\\appsettings.json",
+              "RelativeToolTip": "TicketManagementSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-14T22:34:28.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241017004856_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Mohcine\\Desktop\\Hahn Test\\TicketManagementSystem_BackEnd\\TicketManagementSystem\\Migrations\\20241017004856_InitialCreate.cs",
+              "RelativeDocumentMoniker": "TicketManagementSystem\\Migrations\\20241017004856_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Mohcine\\Desktop\\Hahn Test\\TicketManagementSystem_BackEnd\\TicketManagementSystem\\Migrations\\20241017004856_InitialCreate.cs",
+              "RelativeToolTip": "TicketManagementSystem\\Migrations\\20241017004856_InitialCreate.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB8AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T00:49:09.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mohcine\\Desktop\\Hahn Test\\TicketManagementSystem_BackEnd\\TicketManagementSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TicketManagementSystem\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Mohcine\\Desktop\\Hahn Test\\TicketManagementSystem_BackEnd\\TicketManagementSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TicketManagementSystem\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T22:30:52.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TicketsController.cs",
+              "DocumentMoniker": "C:\\Users\\Mohcine\\Desktop\\Hahn Test\\TicketManagementSystem_BackEnd\\TicketManagementSystem\\Controllers\\TicketsController.cs",
+              "RelativeDocumentMoniker": "TicketManagementSystem\\Controllers\\TicketsController.cs",
+              "ToolTip": "C:\\Users\\Mohcine\\Desktop\\Hahn Test\\TicketManagementSystem_BackEnd\\TicketManagementSystem\\Controllers\\TicketsController.cs",
+              "RelativeToolTip": "TicketManagementSystem\\Controllers\\TicketsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T22:27:16.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TicketsControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Mohcine\\Desktop\\Hahn Test\\TicketManagementSystem_BackEnd\\TicketManagementSystem.Tests\\TicketsControllerTests.cs",
+              "RelativeDocumentMoniker": "TicketManagementSystem.Tests\\TicketsControllerTests.cs",
+              "ToolTip": "C:\\Users\\Mohcine\\Desktop\\Hahn Test\\TicketManagementSystem_BackEnd\\TicketManagementSystem.Tests\\TicketsControllerTests.cs",
+              "RelativeToolTip": "TicketManagementSystem.Tests\\TicketsControllerTests.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T23:46:52.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\Mohcine\\Desktop\\Hahn Test\\TicketManagementSystem_BackEnd\\TicketManagementSystem\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "TicketManagementSystem\\Models\\Ticket.cs",
+              "ToolTip": "C:\\Users\\Mohcine\\Desktop\\Hahn Test\\TicketManagementSystem_BackEnd\\TicketManagementSystem\\Models\\Ticket.cs",
+              "RelativeToolTip": "TicketManagementSystem\\Models\\Ticket.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T22:28:36.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TicketManagementSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\Mohcine\\Desktop\\Hahn Test\\TicketManagementSystem_BackEnd\\TicketManagementSystem\\TicketManagementSystem.csproj",
+              "RelativeDocumentMoniker": "TicketManagementSystem\\TicketManagementSystem.csproj",
+              "ToolTip": "C:\\Users\\Mohcine\\Desktop\\Hahn Test\\TicketManagementSystem_BackEnd\\TicketManagementSystem\\TicketManagementSystem.csproj",
+              "RelativeToolTip": "TicketManagementSystem\\TicketManagementSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-16T22:56:39.293Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
