@@ -1,7 +1,7 @@
-import React, { useState, useEffect } from 'react';
-import { Form, Button } from 'react-bootstrap';
-import { createTicket, updateTicket } from '../Services/ticketService';
-import { Ticket, TicketStatus } from '../types/Ticket';
+import React, { useState, useEffect } from "react";
+import { Form, Button } from "react-bootstrap";
+import { createTicket, updateTicket } from "../Services/ticketService";
+import { Ticket, TicketStatus } from "../types/Ticket";
 
 interface TicketFormProps {
   ticket?: Ticket | null;
@@ -10,15 +10,17 @@ interface TicketFormProps {
 
 const TicketForm: React.FC<TicketFormProps> = ({ ticket, onClose }) => {
   const [formData, setFormData] = useState<Ticket>({
-    description: '',
+    description: "",
     status: TicketStatus.Open,
     id: 0,
-    date: new Date().toISOString(), 
+    date: new Date().toISOString(),
   });
 
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [error, setError] = useState<string | null>(null);
-  const [validationErrors, setValidationErrors] = useState<{ [key: string]: string }>({});
+  const [validationErrors, setValidationErrors] = useState<{
+    [key: string]: string;
+  }>({});
 
   useEffect(() => {
     if (ticket) {
@@ -39,7 +41,7 @@ const TicketForm: React.FC<TicketFormProps> = ({ ticket, onClose }) => {
     const { name, value } = e.target;
     setFormData({
       ...formData,
-      [name]: name === 'status' ? Number(value) : value,
+      [name]: name === "status" ? Number(value) : value,
     });
     setValidationErrors({});
   };
@@ -48,11 +50,11 @@ const TicketForm: React.FC<TicketFormProps> = ({ ticket, onClose }) => {
     const errors: { [key: string]: string } = {};
 
     if (formData.description.trim().length === 0) {
-      errors.description = 'Description is required.';
+      errors.description = "Description is required.";
     }
 
     if (!formData.date) {
-      errors.date = 'Date is required.';
+      errors.date = "Date is required.";
     }
 
     return errors;
@@ -67,7 +69,7 @@ const TicketForm: React.FC<TicketFormProps> = ({ ticket, onClose }) => {
 
     if (Object.keys(errors).length > 0) {
       setIsSubmitting(false);
-      return; 
+      return;
     }
 
     try {
@@ -78,7 +80,7 @@ const TicketForm: React.FC<TicketFormProps> = ({ ticket, onClose }) => {
       }
       onClose();
     } catch (err) {
-      setError(err instanceof Error ? err.message : 'An error occurred');
+      setError(err instanceof Error ? err.message : "An error occurred");
     } finally {
       setIsSubmitting(false);
     }
@@ -97,7 +99,7 @@ const TicketForm: React.FC<TicketFormProps> = ({ ticket, onClose }) => {
           name="description"
           value={formData.description}
           onChange={handleChange}
-          isInvalid={!!validationErrors.description} 
+          isInvalid={!!validationErrors.description}
           disabled={isSubmitting}
         />
         <Form.Control.Feedback type="invalid">
@@ -110,7 +112,7 @@ const TicketForm: React.FC<TicketFormProps> = ({ ticket, onClose }) => {
         <Form.Control
           type="date"
           name="date"
-          value={formData.date.split('T')[0]}
+          value={formData.date.split("T")[0]}
           onChange={handleChange}
           isInvalid={!!validationErrors.date}
           disabled={isSubmitting}
@@ -128,7 +130,7 @@ const TicketForm: React.FC<TicketFormProps> = ({ ticket, onClose }) => {
           onChange={handleChange}
           disabled={isSubmitting}
         >
-          {statusOptions.map(option => (
+          {statusOptions.map((option) => (
             <option key={option.value} value={option.value}>
               {option.label}
             </option>
@@ -138,7 +140,7 @@ const TicketForm: React.FC<TicketFormProps> = ({ ticket, onClose }) => {
 
       <div className="d-flex gap-2">
         <Button type="submit" variant="success" disabled={isSubmitting}>
-          {isSubmitting ? 'Submitting...' : ticket ? 'Update' : 'Create'}
+          {isSubmitting ? "Submitting..." : ticket ? "Update" : "Create"}
         </Button>
         <Button variant="secondary" onClick={onClose} disabled={isSubmitting}>
           Cancel
