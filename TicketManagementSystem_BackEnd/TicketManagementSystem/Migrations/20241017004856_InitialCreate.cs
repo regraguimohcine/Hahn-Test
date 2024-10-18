@@ -34,7 +34,15 @@ namespace TicketManagementSystem.Migrations
                 {
                     { 1, "Test Ticket 1", (int) TicketStatus.Open, DateTime.Now },
                     { 2, "Test Ticket 2", (int) TicketStatus.Closed, DateTime.Now.AddDays(-1) },
-                    { 3, "Test Ticket 3", (int) TicketStatus.Open, DateTime.Now.AddDays(-2) }
+                    { 3, "Test Ticket 3", (int) TicketStatus.Closed, DateTime.Now.AddDays(-1) },
+                    { 4, "Test Ticket 3", (int) TicketStatus.Open, DateTime.Now.AddDays(-2) },
+                    { 5, "Test Ticket 5", (int) TicketStatus.Open, DateTime.Now.AddDays(-2) },
+                    { 6, "Test Ticket 6", (int) TicketStatus.Open, DateTime.Now.AddDays(-2) },
+                    { 7, "Test Ticket 7", (int) TicketStatus.Open, DateTime.Now.AddDays(-2) },
+                    { 8, "Test Ticket 8", (int) TicketStatus.Open, DateTime.Now.AddDays(-2) },
+                    { 9, "Test Ticket 9", (int) TicketStatus.Open, DateTime.Now.AddDays(-2) },
+                    { 10, "Test Ticket 10", (int) TicketStatus.Open, DateTime.Now.AddDays(-3) },
+                    { 11, "Test Ticket 11", (int) TicketStatus.Open, DateTime.Now.AddDays(-3) }
                 });
         }
 
