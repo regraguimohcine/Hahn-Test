@@ -1,0 +1,31 @@
+
+.actionsButton {
+    margin-right: 10px;
+}
+
+.ticketTable thead th {
+    background-color: #198754; 
+    color: white;
+}
+
+.ticketTable tbody tr:hover {
+    background-color: #f2f2f2;
+}
+
+.form-control:focus ,.form-select:focus{
+    box-shadow: 0 0 0 .25rem lightgreen;
+}
+
+.pagination .page-item.active .page-link {
+    background-color: #198754;
+    color: white; 
+}
+
+.pagination .page-link {
+    color: #198754;
+}
+
+.pagination .page-link:hover {
+    background-color: lightgreen; 
+    color: white; 
+}
