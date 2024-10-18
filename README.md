@@ -66,6 +66,9 @@ STEP 4: Running Cypress Tests
 
 5. View Results: Watch the tests run in the Cypress window
 
+[Cypress-presentation.webm](https://github.com/user-attachments/assets/6daf79ad-47ff-49cd-a03e-b58114532a07)
+
+
 
 CHECKING IF EVERYTHING WORKS
 --------------------------
