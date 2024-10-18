@@ -1,22 +1,24 @@
 describe('Ticket Management', () => {
   beforeEach(() => {
     cy.visit('http://localhost:3000');
+    cy.wait(1000);
   });
 
   it('should create a new ticket', () => {
+    const uniqueName = `New Ticket-${Date.now()}`
+
     cy.get('input[placeholder="Search..."]').should('be.visible');
     cy.get('button').contains('Add New').click();
-
-    cy.get('input[name="description"]').type('New Ticket');
+    cy.get('input[name="description"]').type(uniqueName);
     cy.get('input[name="date"]').type('2024-10-17');
     cy.get('select[name="status"]').select('Open');
 
     cy.get('button').contains('Create').click();
-    cy.wait(1000);
+    cy.wait(2000);
 
     // Check if the ticket is added to the list
     cy.get('table tbody tr').last().within(() => {
-      cy.get('td').eq(1).should('contain', 'New Ticket');
+      cy.get('td').eq(1).should('contain', uniqueName);
     });
   });
 
